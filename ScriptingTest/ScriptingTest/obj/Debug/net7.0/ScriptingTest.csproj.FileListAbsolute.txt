@@ -1,0 +1,14 @@
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\bin\Debug\net7.0\ScriptingTest.exe
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\bin\Debug\net7.0\ScriptingTest.deps.json
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\bin\Debug\net7.0\ScriptingTest.runtimeconfig.json
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\bin\Debug\net7.0\ScriptingTest.dll
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\bin\Debug\net7.0\ScriptingTest.pdb
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\obj\Debug\net7.0\ScriptingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\obj\Debug\net7.0\ScriptingTest.AssemblyInfoInputs.cache
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\obj\Debug\net7.0\ScriptingTest.AssemblyInfo.cs
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\obj\Debug\net7.0\ScriptingTest.csproj.CoreCompileInputs.cache
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\obj\Debug\net7.0\ScriptingTest.dll
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\obj\Debug\net7.0\refint\ScriptingTest.dll
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\obj\Debug\net7.0\ScriptingTest.pdb
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\obj\Debug\net7.0\ScriptingTest.genruntimeconfig.cache
+C:\Users\B09S115est\Desktop\ScriptingTest\ScriptingTest\obj\Debug\net7.0\ref\ScriptingTest.dll
